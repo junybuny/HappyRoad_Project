@@ -120,8 +120,8 @@ $ yarn dev
 
 | 이름 | 포지션 | Contact |
 | --- | --- | --- |
-| 최지원 | AI | a1@gmail.com |
-| 최지투 | BE | a1@gmail.com |
-| 최지삼 | FE | a1@gmail.com |
-| 최지사 | FE | a1@gmail.com |
-| 최지오 | FE | a1@gmail.com |
+| 최상원 | 형상관리 | https://github.com/Sangwonsdsd |
+| 권두원 | 조장 | https://github.com/KwonDooWon |
+| 박준   | 이슈관리 | https://github.com/junybuny |
+| 임도현 | 일정관리 | https://github.com/Imdo714 |
+| 김효주 | DB관리 | https://github.com/HJ5990 |
